@@ -1,0 +1,1 @@
+# hot-glue-for-rails
